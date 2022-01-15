@@ -29,3 +29,8 @@
 yarn-debug.log*
 .yarn-integrity
 .idea
+
+
+# Ignore environment variable
+/config/local_env.yml
+/vendor/
